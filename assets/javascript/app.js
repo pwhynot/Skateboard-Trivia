@@ -8,7 +8,7 @@ const questions = {
                 correctAnswer: 0
             },
             {
-                question: "What was the firs team Tony Hawk rode for?",
+                question: "What was the first team Tony Hawk rode for?",
                 answers: ['Toy Machine', 'Bones Brigade', 'Birdhouse', 'Baker'],
                 correctAnswer: 1
             },
