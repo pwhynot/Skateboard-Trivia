@@ -23,13 +23,13 @@ const questions = {
                 correctAnswer: 1
             },
             {
-                question: "Guy Marino made his video debut in what classic skate video?",
+                question: "Guy Mariano made his video debut in what classic skate video?",
                 answers: ['Sight Unseen', 'Fullfill the Dream', 'Video Days', 'Fully Flared'],
                 correctAnswer: 2
             },
             {
                 question: "Which skateboard magazine coined the popular phrase Skate and Destroy?",
-                answers: ['Transworld', 'Big Brother', 'Skateboard Mag', 'Thraser'],
+                answers: ['Transworld', 'Big Brother', 'Skateboard Mag', 'Thrasher'],
                 correctAnswer: 3
             },
             {
@@ -73,7 +73,7 @@ const questions = {
                 correctAnswer: 1
             },
             {
-                question: "Which skate video did Guy Marino make his comeback debut in?",
+                question: "Which skate video did Guy Mariano make his comeback debut in?",
                 answers: ['IE', 'We Are Blood', 'Yeah Right', 'Fully Flared'],
                 correctAnswer: 3
             },
