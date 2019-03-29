@@ -63,7 +63,7 @@ const questions = {
                 correctAnswer: 3 //Question 12
             },
             {
-                question: "Keenan Militon rode for which skateboard compnay?",
+                question: "Keenan Milton rode for which skateboard compnay?",
                 answers: ['Chocolate', 'Birdhouse', 'Shortys', 'Baker'],
                 correctAnswer: 0
             },
